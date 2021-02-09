@@ -22,11 +22,12 @@
 
 
 <h2>Educação</h2>
-Tecnologia em Marketing - **Universidade Positivo**
-> 2 anos - Concluído em 2019.
 
 Tecnologia em Análise e Desenvolvimento de Sistemas - **UNICESUMAR**
 > 2,5 anos - Previsão de conclusão em 2022.
+
+Tecnologia em Marketing - **Universidade Positivo**
+> 2 anos - Concluído em 2019.
 
 <div align="center">
 	<a href="mailto:gableonn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
