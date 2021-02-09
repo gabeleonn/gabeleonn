@@ -10,12 +10,12 @@
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org/en/) [<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />](https://expressjs.com/)
 [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/) [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />](https://www.djangoproject.com/)
 [<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/) [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
-
+</div>
 
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
-</div>
+
 
 <h2>Projetos</h2>
 
