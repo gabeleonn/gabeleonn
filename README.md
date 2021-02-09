@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindo!</h1>
-<p>Sobre</p>
+<p>Me chamo Gabriel Leon. 22 anos. Sonhando alto. Em busca da melhor vaga de estágio para Dev Front-End com ReactJS, porém aberto a novos horizontes.</p>
 <h2>Tecnologias</h2>
 
 
