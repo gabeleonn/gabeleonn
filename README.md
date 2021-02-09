@@ -16,6 +16,7 @@
 
 <h2>Projetos</h2>
 - [Fabapar IT Manager](https://github.com/gabeleonn/fabapar-client)
+
 - [Context Login Page](https://github.com/gabeleonn/context-login)
 - [Redux Counter Page](https://github.com/gabeleonn/redux-saga)
 - [Resume Page](https://github.com/gabeleonn/resume-app)
