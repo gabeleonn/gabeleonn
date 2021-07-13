@@ -19,10 +19,13 @@
 
 <h2>Projetos</h2>
 
-- [Context Login Page](https://github.com/gabeleonn/context-login)
-- [Redux Counter Page](https://github.com/gabeleonn/redux-saga)
-- [Resume Page](https://github.com/gabeleonn/resume-app)
-- [Fabapar IT Manager](https://github.com/gabeleonn/fabapar-client)
+- [Login API (Hexagonal Archtecture)](https://github.com/gabeleonn/login-clean) - Developing
+- [Algorithms & Data structures with Typescript](https://github.com/gabeleonn/data-structures-and-algs) - Developing
+- [MS Todo App](https://github.com/gabeleonn/todo-app) - Done
+- [Interlinear Bible](https://github.com/gabeleonn/biblia-interlinear) - Developing
+- [Context Login Page](https://github.com/gabeleonn/context-login) - Sample
+- [Redux Counter Page](https://github.com/gabeleonn/redux-saga) - Sample
+- [Fabapar IT Manager](https://github.com/gabeleonn/fabapar-client) - Deprecated
 
 
 <h2>Educação</h2>
