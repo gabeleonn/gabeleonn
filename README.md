@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
@@ -42,8 +43,8 @@
 
 <h2>Projetos</h2>
 
-- [Login API (Hexagonal Archtecture)](https://github.com/gabeleonn/login-clean) - Developing
-- [Algorithms & Data structures with Typescript](https://github.com/gabeleonn/data-structures-and-algs) - Developing
+- [Solomon](https://github.com/gabeleonn/solomon) - Developing
+- [Charis](https://github.com/gabeleonn/charis) - Developing
 - [MS Todo App](https://github.com/gabeleonn/todo-app) - Done
 - [Interlinear Bible](https://github.com/gabeleonn/biblia-interlinear) - Developing
 - [Context Login Page](https://github.com/gabeleonn/context-login) - Sample
