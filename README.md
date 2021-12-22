@@ -1,6 +1,6 @@
 
 <h1 align="center">Bem vindo!</h1>
-<p align="justify">Me chamo Gabriel Leon. 23 anos. Estagiário Javascript Fullstack no Banco Bari. Apaixonado por Jesus e por tecnologia.</p>
+<p align="justify">Me chamo Gabriel Leon. 23 anos. Desenvolvedor Javascript Fullstack no Banco Bari. Apaixonado por Jesus e por tecnologia.</p>
 <h2>Tecnologias</h2>
 
 <div align="center">
