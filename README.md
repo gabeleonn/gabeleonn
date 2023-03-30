@@ -43,13 +43,9 @@
 
 <h2>Projetos</h2>
 
-- [Solomon](https://github.com/gabeleonn/solomon) - Developing
-- [Charis](https://github.com/gabeleonn/charis) - Developing
+- [Solomon](https://github.com/gabeleonn/solomon-api) - Developing
 - [MS Todo App](https://github.com/gabeleonn/todo-app) - Done
-- [Interlinear Bible](https://github.com/gabeleonn/biblia-interlinear) - Developing
-- [Context Login Page](https://github.com/gabeleonn/context-login) - Sample
-- [Redux Counter Page](https://github.com/gabeleonn/redux-saga) - Sample
-- [Fabapar IT Manager](https://github.com/gabeleonn/fabapar-client) - Deprecated
+
 
 
 <h2>Educação</h2>
