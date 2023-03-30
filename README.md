@@ -51,8 +51,8 @@
 
 <h2>Education</h2>
 
-Degree in System Development and Analysis at **UNICESUMAR**
-Degree in Marketing and Management at **Universidade Positivo**
+<p>Degree in System Development and Analysis at **UNICESUMAR**</p>
+<p>Degree in Marketing and Management at **Universidade Positivo**</p>
 
 <div align="center">
 	<a href="mailto:gableonn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
