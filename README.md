@@ -1,7 +1,8 @@
 
-<h1 align="center">Bem vindo!</h1>
-<p align="justify">Me chamo Gabriel Leon. 23 anos. Desenvolvedor Javascript Fullstack no Banco Bari. Apaixonado por Jesus e por tecnologia.</p>
-<h2>Tecnologias</h2>
+<h1 align="center">Welcome!</h1>
+<p align="justify">I'm Gabe Leon, 25, Christian & Software Engineer at Godaddy.</p>
+<br/>
+<h2>Tech Stack</h2>
 
 <div align="center">
 <div align="center">
@@ -41,20 +42,17 @@
 
 
 
-<h2>Projetos</h2>
+<h2>Main Projects</h2>
 
 - [Solomon](https://github.com/gabeleonn/solomon-api) - Developing
 - [MS Todo App](https://github.com/gabeleonn/todo-app) - Done
 
 
 
-<h2>Educação</h2>
+<h2>Education</h2>
 
-Tecnologia em Análise e Desenvolvimento de Sistemas - **UNICESUMAR**
-> 2,5 anos - Previsão de conclusão em 2022.
-
-Tecnologia em Marketing - **Universidade Positivo**
-> 2 anos - Concluído em 2019.
+Degree in System Development and Analysis at **UNICESUMAR**
+Degree in Marketing and Management at **Universidade Positivo**
 
 <div align="center">
 	<a href="mailto:gableonn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
